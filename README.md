@@ -8,10 +8,10 @@ We also learned how to deploy applications to Render, a service similar to Herok
 
 ## Disclosures
 
-I once again spoke with my tutor Erik, utilized the Xpert Learning Assistant, and spoke with our teacher, Louis, to get help on this project. 
+I once again spoke with my tutor Erik, utilized the Xpert Learning Assistant, and spoke with our teacher, Louis, during office hours, to get help on this project. 
 
 ## Links
 
 Here is the link to my GitHub repository for this challenge: https://github.com/tylerclark2017/texteditorpwaapp
 
-Here is the link to the deployed Render application for this challenge: 
+Here is the link to the deployed Render application for this challenge: https://texteditorpwaapp.onrender.com
