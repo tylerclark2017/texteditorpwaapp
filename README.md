@@ -8,7 +8,7 @@ We also learned how to deploy applications to Render, a service similar to Herok
 
 ## Disclosures
 
-I once again spoke with my tutor Erik, utilized the Xpert Learning Assistant, and spoke with our teacher, Louis, during office hours, to get help on this project. 
+I once again spoke with my tutor Erik, utilized the Xpert Learning Assistant, and spoke with our teacher, Louis, during office hours, to get help on this project. He helped to finalize the project and debugged further issues--it was incredibly helpful to talk with him too. 
 
 ## Links
 
